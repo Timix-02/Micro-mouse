@@ -9,7 +9,7 @@ Successful project completion hinges upon a comprehensive understanding of the m
 
 PCB manufacturing is done by JLPCB, thus components are limited to their inventory
 
-##Sensing Subsytem
+## Sensing Subsytem
 The sensor PCB functions as the "eyes" of the robot, providing crucial obstacle detection information to the processor. Key objectives for this submodule include:
 
 1. Detecting obstacles in front of and possibly on the sides of the robot.
