@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC
+100kΩ,"R7,R8,R9",R_0805_2012Metric,C149504
+10uF,"C1,C2,C3",C_0805_2012Metric,C15850
+100Ω,"R1,R2,R3",LED_0805_2012Metric,C17408
+NPN,"Q1,Q2,Q3",SOT-23,C2145
+7.5KΩ,"R4,R5,R6",R_0603_1608Metric,C23234
+~,"D4,D5,D6",Osram_SFH205,C405266
+~,"D1,D2,D3",LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,C475380
+V3 TP,TP3,TestPoint_Pad_D1.5mm,
+GND TP,TP4,TestPoint_Pad_D1.5mm,
+V2 TP,TP2,TestPoint_Pad_D1.5mm,
+V1 TP,TP1,TestPoint_Pad_D1.5mm,
+PD JO,JP4,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
+R5 JO,JP3,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
+R7 JO,JP2,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
+LED JO,JP1,SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm,
