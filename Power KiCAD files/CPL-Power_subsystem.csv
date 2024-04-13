@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7u,C_0805_2012Metric,148.55,-87.5,0.0,top
+C2,4.7u,C_0805_2012Metric,148.55,-90.0,0.0,top
+C3,10nF,C_0805_2012Metric,142.55,-85.0,0.0,top
+C4,2.2uF,C_0805_2012Metric,142.55,-87.5,0.0,top
+C5,10uF,C_0805_2012Metric,142.55,-90.0,0.0,top
+D1,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,155.0,-93.0,0.0,top
+R1,2k,R_0805_2012Metric,148.5875,-85.0,0.0,top
+R2,470,R_0805_2012Metric,159.0,-86.5875,90.0,top
+R5,100k,R_0805_2012Metric,162.0,-86.5,90.0,top
+R6,100k,R_0805_2012Metric,165.0,-86.5,90.0,top
+U1,MCP73831-2-OT,SOT-23-5,155.0,-86.5,0.0,top
+U2,DRV8833PW,TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm,136.25,-87.75,0.0,top
