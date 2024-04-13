@@ -7,7 +7,7 @@ Conversely, the sensor module is responsible for object detection/sensing. It mu
 
 Successful project completion hinges upon a comprehensive understanding of the module's role within the overall system architecture, coupled with meticulous adherence to specified requirements. Group members assume responsibility for either the power or sensing subsystem. 
 
-PCB manufacturing is done by JLPCB, thus components are limited to their inventory
+PCB manufacturing is done by JLPCB, thus components are limited to their inventory.
 
 ## Sensing Subsytem
 The sensor PCB functions as the "eyes" of the robot, providing crucial obstacle detection information to the processor. Key objectives for this submodule include:
@@ -22,7 +22,16 @@ The sensor board must align with the 2x14 connection standard and be appropriate
 
 Successful completion of the sensor subsystem necessitates a comprehensive understanding of its role within the overall system architecture, coupled with meticulous adherence to specified requirements. This includes ensuring seamless integration with other subsystems and addressing power management challenges to maintain overall system efficiency.
 
+## Power Subsystem
+This subsytem of the micro-mouse project is essential as provides power to the entire system. Outlined below are the requirements for this submodule:
 
+1. Operate and run two motors.
+2. Relay battery voltage information using an analog connection.
+3. Charge the battery
+4. Implement power management by means of an ON/OFF switch.
 
+The power module must include a JST PH pin connector for a 1S1P battery as well as a 2x8 connector protruding from the power board with the associated pin assignments connected to the motherboard. 
+
+The power subsystem's PBC design should be compact to minimize the maximum distance of the robot from the center of rotation. This optimization is crucial for enhancing the robot's maneuverability and overall movement efficiency.
 
 
